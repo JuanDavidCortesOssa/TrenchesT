@@ -1,9 +1,9 @@
 const cacheName = "PixelIngot-Trenches-0.1";
 const contentToCache = [
-    "Build/FPSOnline10.loader.js",
-    "Build/FPSOnline10.framework.js",
-    "Build/FPSOnline10.data",
-    "Build/FPSOnline10.wasm",
+    "Build/FPSOnline13.loader.js",
+    "Build/FPSOnline13.framework.js",
+    "Build/FPSOnline13.data",
+    "Build/FPSOnline13.wasm",
     "TemplateData/style.css"
 
 ];
